@@ -1,1 +1,2 @@
-# DarazWebsite
+# Daraz
+A clone website of Daraz
